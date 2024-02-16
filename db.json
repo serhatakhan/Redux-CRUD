@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "da9cef5a-828a-4243-b7fb-e5880e31a1cb",
+      "text": "native navigators bak",
+      "is_done": true,
+      "created_at": "15.02.2024"
+    },
+    {
+      "id": "1eaa9c3e-8a67-4867-b5c3-2914da1f0c8b",
+      "text": "typescript",
+      "is_done": false,
+      "created_at": "15.02.2023"
+    }
+  ]
+}
