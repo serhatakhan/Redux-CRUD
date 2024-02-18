@@ -31,6 +31,6 @@ Bu proje, React ve **Redux** kullanarak basit bir todo uygulaması geliştirmek 
 * UUID
 * Bootstrap
 
-# Ekran Gifi
+## Ekran Gifi
 
 ![Kayt2024-02-16171140-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/Redux-CRUD/assets/147662915/e229752e-e255-420d-9749-050ad29e20aa)
